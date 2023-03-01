@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+.table{
+    border: 1px solid rgb(228, 1, 1);
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(255, 254, 254);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+        
+}
+tbody,tr,td{
+    border: 1px solid rgb(228, 1, 1);
+}
+
+.centro{
+    text-align: center;
+}
+
+
+thead tr, th{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(216, 98, 118);
+
+}
